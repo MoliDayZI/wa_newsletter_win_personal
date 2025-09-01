@@ -1,0 +1,15 @@
+[9012:9016:0831/160556.986:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[9192:9196:0831/160557.219:ERROR:ui\gl\direct_composition_support.cc:615] AMD VideoProcessorGetOutputExtension failed: Неопознанная ошибка (0x80004005)
+[9192:9268:0831/160601.059:WARNING:ui\gl\angle_platform_impl.cc:52] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[9012:9016:0831/160604.743:INFO:CONSOLE:115] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y9/r/WjYlXbGB1AK.js (115)
+[9012:9116:0831/160612.913:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[9012:9116:0831/160612.956:ERROR:google_apis\gcm\engine\mcs_client.cc:700]   Error code: 401  Error message: Authentication Failed: wrong_secret
+[9012:9116:0831/160612.957:ERROR:google_apis\gcm\engine\mcs_client.cc:702] Failed to log in to GCM, resetting connection.
+[9012:9116:0831/160635.798:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[9012:9016:0831/160722.092:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[9012:9016:0831/160727.097:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[9012:9016:0831/160732.113:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[9012:9116:0831/160736.143:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[9012:9016:0831/160737.116:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0

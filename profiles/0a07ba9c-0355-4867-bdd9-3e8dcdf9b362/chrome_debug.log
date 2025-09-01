@@ -1,0 +1,31 @@
+[10204:9900:0901/155257.518:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[8244:9844:0901/155257.713:ERROR:ui\gl\direct_composition_support.cc:615] AMD VideoProcessorGetOutputExtension failed: Неопознанная ошибка (0x80004005)
+[8244:9496:0901/155300.463:WARNING:ui\gl\angle_platform_impl.cc:52] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[10204:9900:0901/155302.498:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155303.567:INFO:CONSOLE:115] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/y9/r/WjYlXbGB1AK.js (115)
+[10204:9900:0901/155307.499:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:2320:0901/155311.772:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[10204:2320:0901/155311.774:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: PHONE_REGISTRATION_ERROR
+[10204:9900:0901/155312.515:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155317.518:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155322.518:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155327.528:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155332.536:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:2320:0901/155333.146:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[10204:9900:0901/155337.540:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155342.544:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[3060:5320:0901/155343.909:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155344.219:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155344.816:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155345.146:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155346.001:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155346.310:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[10204:9900:0901/155347.554:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[3060:5320:0901/155347.677:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[3060:5320:0901/155347.985:ERROR:net\socket\ssl_client_socket_impl.cc:914] handshake failed; returned -1, SSL error code 1, net_error -100
+[10204:9900:0901/155352.555:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:9900:0901/155357.569:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0
+[10204:2320:0901/155402.128:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:483] ConnectionHandler failed with net error: -2
+[10204:9900:0901/155402.576:WARNING:chrome\browser\performance_manager\policies\page_discarding_helper.cc:137] Discarding multiple pages with target (kb): 0, discard_protected_tabs: 0

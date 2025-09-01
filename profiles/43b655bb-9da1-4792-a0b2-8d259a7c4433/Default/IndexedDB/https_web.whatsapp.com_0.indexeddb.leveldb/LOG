@@ -1,0 +1,23 @@
+2025/08/29-16:20:00.541 2410 Reusing MANIFEST C:\Users\Andrew\Desktop\скрипты\wa_newsletter\profiles\43b655bb-9da1-4792-a0b2-8d259a7c4433\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/29-16:20:00.542 2410 Recovering log #160
+2025/08/29-16:20:00.546 2410 Reusing old log C:\Users\Andrew\Desktop\скрипты\wa_newsletter\profiles\43b655bb-9da1-4792-a0b2-8d259a7c4433\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000160.log 
+2025/08/29-16:20:01.612 2410 Level-0 table #170: started
+2025/08/29-16:20:01.618 2410 Level-0 table #170: 58983 bytes OK
+2025/08/29-16:20:01.621 2410 Delete type=0 #160
+2025/08/29-16:20:01.622 2410 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/29-16:20:01.742 243c Compacting 1@1 + 6@2 files
+2025/08/29-16:20:01.861 243c Generated table #171@1: 27803 keys, 2186475 bytes
+2025/08/29-16:20:01.922 243c Generated table #172@1: 2090 keys, 2154875 bytes
+2025/08/29-16:20:02.043 243c Generated table #173@1: 25938 keys, 2245972 bytes
+2025/08/29-16:20:02.148 243c Generated table #174@1: 35443 keys, 2179307 bytes
+2025/08/29-16:20:02.327 243c Generated table #175@1: 106855 keys, 2258827 bytes
+2025/08/29-16:20:02.362 243c Generated table #176@1: 21316 keys, 456057 bytes
+2025/08/29-16:20:02.363 243c Compacted 1@1 + 6@2 files => 11481513 bytes
+2025/08/29-16:20:02.363 243c compacted to: files[ 0 0 6 0 0 0 0 ]
+2025/08/29-16:20:02.364 243c Delete type=2 #162
+2025/08/29-16:20:02.364 243c Delete type=2 #163
+2025/08/29-16:20:02.365 243c Delete type=2 #164
+2025/08/29-16:20:02.365 243c Delete type=2 #165
+2025/08/29-16:20:02.365 243c Delete type=2 #166
+2025/08/29-16:20:02.365 243c Delete type=2 #167
+2025/08/29-16:20:02.365 243c Delete type=2 #170
